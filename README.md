@@ -6,3 +6,5 @@ for my specific printer, but should be a good base to start from.
 direct drive i'm using: https://www.thingiverse.com/thing:3816051
 
 fan duct: https://www.thingiverse.com/thing:4630748
+
+you'll want to conduct your own calibrations for resonance compensation, pressure advance, pid tuning and the like, but this should be p close.
